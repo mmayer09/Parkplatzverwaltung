@@ -11,7 +11,6 @@
             parkplatz.ZeigeAuslastung();
         
             Thread.Sleep(120000); 
-            
             parkplatz.VerlasseParkplatz(stehplatz);
             parkplatz.ZeigeAuslastung();
         }
