@@ -4,7 +4,7 @@ public class Stehplatzinformationen
 {
    public enum Fahrzeugtyp
    {
-      Nix,
+      None,
       Motorrad,
       PKW
    }
